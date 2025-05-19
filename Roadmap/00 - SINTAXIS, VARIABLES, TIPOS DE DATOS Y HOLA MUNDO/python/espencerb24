@@ -1,0 +1,16 @@
+#https://www.python.org/
+
+#comentario en una linea
+
+"""
+comentario
+en varias
+lineas
+
+"""
+
+my_variable = "mi variable"
+my_variable = "nuevo valor"
+
+MY_CONSTANT = "NO TOCAR CV" #por convencion
+MY_CONSTANT = "SD#GSGYDGD"
